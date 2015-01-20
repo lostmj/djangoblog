@@ -1,2 +1,5 @@
 # djangoblog
 happy
+
+
+admin:admin
